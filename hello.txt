@@ -1,0 +1,24 @@
+what is devops?
+dvops=development+operations
+.its a culture+set of practices+tools that help:
+.developers(who write code)
+.operations( who deploy/manages system)
+
+devops life cycle:
+the 8 devops life cycle phases are:
+ plane:   define what to build 
+ develop: write the code 
+ build :  compile code into 
+
+ test:    check for bugs automatically
+ reseals: approve the build for deveployment
+
+
+
+
+
+Github:
+what is Git & GitHub ?
+.Git:version control system(local)
+.GitHub:online platform to store git projects
+
